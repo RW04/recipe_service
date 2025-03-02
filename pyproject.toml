@@ -1,0 +1,71 @@
+[project]
+name = "recipeai"
+version = "0.1.0"
+description = "Recipe AI Service"
+requires-python = ">=3.11.11"
+dependencies = [
+    "annotated-types==0.7.0",
+    "anyio==4.8.0",
+    "certifi==2025.1.31",
+    "click==8.1.8",
+    "distro==1.9.0",
+    "dnspython==2.7.0",
+    "email-validator==2.2.0",
+    "fastapi==0.115.9",
+    "fastapi-cli==0.0.7",
+    "h11==0.14.0",
+    "httpcore==1.0.7",
+    "httptools==0.6.4",
+    "httpx==0.28.1",
+    "idna==3.10",
+    "iniconfig==2.0.0",
+    "jinja2==3.1.5",
+    "jiter==0.8.2",
+    "joblib==1.4.2",
+    "markdown-it-py==3.0.0",
+    "markupsafe==3.0.2",
+    "mdurl==0.1.2",
+    "motor==3.7.0",
+    "nltk==3.9.1",
+    "numpy==2.2.3",
+    "openai==1.65.1",
+    "packaging==24.2",
+    "pandas==2.2.3",
+    "pluggy==1.5.0",
+    "pydantic==2.10.6",
+    "pydantic-core==2.27.2",
+    "pygments==2.19.1",
+    "pymongo==4.11.1",
+    "pytest==8.3.4",
+    "pytest-asyncio==0.25.3",
+    "python-dateutil==2.9.0.post0",
+    "python-dotenv==1.0.1",
+    "python-multipart==0.0.20",
+    "pytz==2025.1",
+    "pyyaml==6.0.2",
+    "regex==2024.11.6",
+    "rich==13.9.4",
+    "rich-toolkit==0.13.2",
+    "shellingham==1.5.4",
+    "six==1.17.0",
+    "sniffio==1.3.1",
+    "starlette==0.45.3",
+    "tqdm==4.67.1",
+    "typer==0.15.2",
+    "typing-extensions==4.12.2",
+    "tzdata==2025.1",
+    "uvicorn==0.34.0",
+    "uvloop==0.21.0",
+    "watchfiles==1.0.4",
+    "websockets==15.0",
+]
+
+[build-system]
+requires = ["setuptools>=75.8.0", "wheel>=0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+
+[tool.setuptools]
+packages = ["recipeai"]
