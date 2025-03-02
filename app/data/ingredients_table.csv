@@ -1,0 +1,343 @@
+Ingredient,Category
+Aubergines,Vegetables
+Brinjal,Vegetables
+Eggplant,Vegetables
+Okra,Vegetables
+Tomato,Vegetables
+Spinach,Vegetables
+Lettuce,Vegetables
+Kale,Vegetables
+Arugula,Vegetables
+Collard Greens,Vegetables
+Mustard Greens,Vegetables
+Watercress,Vegetables
+Swiss Chard,Vegetables
+Romaine,Vegetables
+Bok Choy,Vegetables
+Carrot,Vegetables
+Potato,Vegetables
+Beet,Vegetables
+Radish,Vegetables
+Turnip,Vegetables
+Parsnip,Vegetables
+Sweet Potato,Vegetables
+Daikon,Vegetables
+Rutabaga,Vegetables
+Celeriac,Vegetables
+Broccoli,Vegetables
+Cauliflower,Vegetables
+Cabbage,Vegetables
+Brussels Sprouts,Vegetables
+Kohlrabi,Vegetables
+Radicchio,Vegetables
+Savoy Cabbage,Vegetables
+Onion,Vegetables
+Garlic,Vegetables
+Leek,Vegetables
+Shallot,Vegetables
+Scallion,Vegetables
+Chive,Vegetables
+Spring Onion,Vegetables
+Ramps,Vegetables
+Pearl Onion,Vegetables
+Elephant Garlic,Vegetables
+Celery,Vegetables
+Asparagus,Vegetables
+Rhubarb,Vegetables
+Fennel,Vegetables
+Green Onion,Vegetables
+Chard Stalk,Vegetables
+Broccoli Stem,Vegetables
+Bamboo Shoots,Vegetables
+Lemongrass,Vegetables
+Mustard Greens,Vegetables
+Jarred Pickles,Vegetables
+Jarred Salsa,Vegetables
+Jarred Olives,Vegetables
+Canned Artichoke Hearts,Vegetables
+Jarred Artichokes,Vegetables
+Canned Beets,Vegetables
+Canned Mushrooms,Vegetables
+Canned Green Beans,Vegetables
+Canned Carrots,Vegetables
+Canned Peas,Vegetables
+Jarred Capers,Vegetables
+Jarred Sun-Dried Tomatoes,Vegetables
+Jarred Peppers,Vegetables
+Canned Tomatoes,Vegetables
+Canned Corn,Vegetables
+Canned Pumpkin,Vegetables
+Canned Olives,Vegetables
+Green Olives,Vegetables
+Black Olives,Vegetables
+Kalamata Olives,Vegetables
+Castelvetrano Olives,Vegetables
+Manzanilla Olives,Vegetables
+Gaeta Olives,Vegetables
+Nicoise Olives,Vegetables
+Cerignola Olives,Vegetables
+Picholine Olives,Vegetables
+Ligurian Olives,Vegetables
+Quinoa, Carbs
+Coconut Flour,Carbs
+Oat Flour,Carbs
+Rye Flour,Carbs
+Gluten-Free Flour,Carbs
+All-Purpose Flour,Carbs
+Cornmeal,Carbs
+Polenta,Carbs
+Cracked Wheat,Carbs
+Wheat Bran,Carbs
+Corn Grits,Carbs
+Amaranth,Carbs
+Buckwheat,Carbs
+Chia,Carbs
+Teff,Carbs
+Kamut,Carbs
+Emmer,Carbs
+Einkorn,Carbs
+Spaghetti,Carbs
+Penne,Carbs
+Fusilli,Carbs
+Macaroni,Carbs
+Lasagna,Carbs
+Fettuccine,Carbs
+Linguine,Carbs
+Farfalle,Carbs
+Rigatoni,Carbs
+Pasta,Carbs
+Rotini,Carbs
+Cannelloni,Carbs
+Ravioli,Carbs
+Chicken,Protein
+Turkey,Protein
+Duck,Protein
+Goose,Protein
+Quail,Protein
+Pheasant,Protein
+Guinea Fowl,Protein
+Squab,Protein
+Ostrich,Protein
+Partridge,Protein
+Beef,Protein
+Pork,Protein
+Venison,Protein
+Lamb,Protein
+Mutton,Protein
+Bison,Protein
+Goat,Protein
+Elk,Protein
+Wild Boar,Protein
+Caribou,Protein
+Salmon,Protein
+Shrimp,Protein
+Squid,Protein
+Tuna,Protein
+Cod,Protein
+Haddock,Protein
+Crab,Protein
+Lobster,Protein
+Scallop,Protein
+Mackerel,Protein
+Octopus,Protein
+Rabbit,Protein
+Deer,Protein
+Buffalo,Protein
+Squirrel,Protein
+Grouse,Protein
+Black beans,Protein
+Kidney beans,Protein
+Pinto beans,Protein
+Navy beans,Protein
+Lima beans,Protein
+Cannellini beans,Protein
+Soybeans,Protein
+Adzuki beans,Protein
+Mung beans,Protein
+Fava beans,Protein
+Chickpeas,Protein
+Green peas,Protein
+Snow peas,Protein
+Snap peas,Protein
+Black-eyed peas,Protein
+Pigeon peas,Protein
+Yellow peas,Protein
+Split peas,Protein
+White peas,Protein
+Field peas,Protein
+Red lentils,Protein
+Green lentils,Protein
+Yellow lentils,Protein
+Brown lentils,Protein
+Black lentils,Protein
+Orange lentils,Protein
+French lentils,Protein
+Spanish pardina lentils,Protein
+Beluga lentils,Protein
+Golden lentils,Protein
+Sprouted chickpeas,Protein
+Sprouted lentils,Protein
+Sprouted soybeans,Protein
+Sprouted mung beans,Protein
+Sprouted adzuki beans,Protein
+Sprouted black beans,Protein
+Sprouted kidney beans,Protein
+Sprouted pinto beans,Protein
+Sprouted navy beans,Protein
+Sprouted green peas,Protein
+Canned Black Beans,Protein
+Canned Kidney Beans,Protein
+Canned Pinto Beans,Protein
+Canned Chickpeas,Protein
+Canned Navy Beans,Protein
+Canned Lima Beans,Protein
+Canned Cannellini Beans,Protein
+Canned Refried Beans,Protein
+Canned Baked Beans,Protein
+Canned Tuna,Protein
+Canned Salmon,Protein
+Canned Sardines,Protein
+Canned Mackerel,Protein
+Canned Anchovies,Protein
+Canned Clams,Protein
+Canned Crab,Protein
+Canned Oysters,Protein
+Canned Shrimp,Protein
+Canned Trout,Protein
+Orange,Fruits
+Lemon,Fruits
+Lime,Fruits
+Grapefruit,Fruits
+Mandarin,Fruits
+Tangerine,Fruits
+Pomelo,Fruits
+Kumquat,Fruits
+Bergamot,Fruits
+Yuzu,Fruits
+Strawberry,Fruits
+Blueberry,Fruits
+Raspberry,Fruits
+Blackberry,Fruits
+Cranberry,Fruits
+Goji Berry,Fruits
+Boysenberry,Fruits
+Elderberry,Fruits
+Mulberry,Fruits
+Huckleberry,Fruits
+Banana,Fruits
+Pineapple,Fruits
+Mango,Fruits
+Papaya,Fruits
+Coconut,Fruits
+Guava,Fruits
+Lychee,Fruits
+Passion Fruit,Fruits
+Kiwi,Fruits
+Dragon Fruit,Fruits
+Peach,Fruits
+Plum,Fruits
+Cherry,Fruits
+Apricot,Fruits
+Nectarine,Fruits
+Black Cherry,Fruits
+White Peach,Fruits
+Sour Cherry,Fruits
+Pluot,Fruits
+Avocado,Fruits
+Sapote,Fruits
+Breadfruit,Fruits
+Soursop,Fruits
+Jackfruit,Fruits
+Durian,Fruits
+Cherimoya,Fruits
+Santol,Fruits
+Pawpaw,Fruits
+Black Sapote,Fruits
+Canned Peaches,Fruits
+Canned Pineapples,Fruits
+Canned Pears,Fruits
+Canned Cherries,Fruits
+Canned Apricots,Fruits
+Canned Mango,Fruits
+Canned Mandarin Oranges,Fruits
+Canned Fruit Cocktail,Fruits
+Canned Lychee,Fruits
+Canned Apples,Fruits
+Olive Oil,Oils
+Vegetable Oil,Oils
+Canola Oil,Oils
+Sunflower Oil,Oils
+Coconut Oil,Oils
+Avocado Oil,Oils
+Sesame Oil,Oils
+Peanut Oil,Oils
+Grape Seed Oil,Oils
+Flaxseed Oil,Oils
+Sugar,Sugars
+White Sugar,Sugars
+Brown Sugar,Sugars
+Powdered Sugar,Sugars
+Cane Sugar,Sugars
+Coconut Sugar,Sugars
+Raw Sugar,Sugars
+Turbinado Sugar,Sugars
+Muscovado Sugar,Sugars
+Demerara Sugar,Sugars
+Date Sugar,Sugars
+Salt,Salts
+Table Salt,Salts
+Sea Salt,Salts
+Kosher Salt,Salts
+Pink Salt,Salts
+Iodized Salt,Salts
+Celtic Salt,Salts
+Flaky Salt,Salts
+Smoked Salt,Salts
+Black Salt,Salts
+Pickling Salt,Salts
+Soy Sauce,Condiments
+Hoisin Sauce,Condiments
+Fish Sauce,Condiments
+Oyster Sauce,Condiments
+Hot Sauce,Condiments
+Worcestershire Sauce,Condiments
+Garlic Sauce,Condiments
+Barbecue Sauce,Condiments
+Teriyaki Sauce,Condiments
+Honey Mustard Sauce,Condiments
+Salsa,Condiments
+Ketchup,Condiments
+Mayonnaise,Condiments
+Aioli,Condiments
+Vinaigrette,Condiments
+Dressing Mixes,Condiments
+Jarred Pickles,Condiments
+Jarred Pesto,Condiments
+Jarred Pasta Sauce,Condiments
+Vinegar,Condiments
+Mustard,Condiments
+Relish,Condiments
+Chutney,Condiments
+Tabasco,Condiments
+Black Pepper,Seasonings
+Red Pepper,Seasonings
+Paprika,Seasonings
+Cumin,Seasonings
+Turmeric,Seasonings
+Coriander,Seasonings
+Cilantro,Seasonings
+Cinnamon,Seasonings
+Cloves,Seasonings
+Nutmeg,Seasonings
+Cardamom,Seasonings
+Allspice,Seasonings
+Thyme,Seasonings
+Rosemary,Seasonings
+Sage,Seasonings
+Oregano,Seasonings
+Basil,Seasonings
+Dill,Seasonings
+Fennel Seeds,Seasonings
+Mustard Seeds,Seasonings
+Sesame Seeds,Seasonings
+Parsley,Seasonings
